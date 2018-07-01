@@ -3,6 +3,7 @@ Predict Stock price using different regression algorithms like linear regression
 
 ![Alt Text](https://gfycat.com/ClumsyMellowFinch)
 
+[[ https://gfycat.com/ClumsyMellowFinch ]]
 
 
 

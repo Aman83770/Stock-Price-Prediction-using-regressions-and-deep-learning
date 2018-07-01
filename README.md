@@ -1,7 +1,7 @@
 # Stock Price Prediction using Regression Algorithms, Deep learning model and Twitter Sentiment analysis.
 Predict Stock price using different regression algorithms like linear regression, support vector regression. We also applied twitter sentiment analysis and made deep learning model to predict the future price.
 
-![Alt Text](https://github.com/Aman83770/Stocky-Predict-Stock-Price/major_video.gif)
+![Alt Text](https://github.com/Aman83770/Stocky-Predict-Stock-Price/Major_video.gif)
 
 [[ https://gfycat.com/ClumsyMellowFinch ]]
 

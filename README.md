@@ -7,6 +7,7 @@ Predict Stock price using different regression algorithms like linear regression
 
 <iframe src='https://gfycat.com/ifr/ClumsyMellowFinch' frameborder='0' scrolling='no' allowfullscreen width='640' height='360'></iframe>
 
+<a href="https://gfycat.com/ClumsyMellowFinch"><img src="https://gfycat.com/ClumsyMellowFinch " title="Project Video" /> </a>
 
 ## This project contain two parts. 
 Algorithm directory: In which all algorithm has
